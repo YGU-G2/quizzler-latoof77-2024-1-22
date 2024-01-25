@@ -1,0 +1,74 @@
+C:\Users\rodz\Documents\Visual Studio 2008\Projects\Students_registration\Students_registration\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rodz\Documents\Visual Studio 2008\Projects\Students_registration\Students_registration\obj\Debug\Students_registration.Properties.Resources.resources
+C:\Users\rodz\Documents\Visual Studio 2008\Projects\Students_registration\Students_registration\obj\Debug\Students_registration.csproj.GenerateResource.Cache
+C:\Users\rodz\Documents\Visual Studio 2008\Projects\Students_registration\Students_registration\bin\Debug\Students_registration.exe
+C:\Users\rodz\Documents\Visual Studio 2008\Projects\Students_registration\Students_registration\bin\Debug\Students_registration.pdb
+C:\Users\rodz\Documents\Visual Studio 2008\Projects\Students_registration\Students_registration\obj\Debug\Students_registration.exe
+C:\Users\rodz\Documents\Visual Studio 2008\Projects\Students_registration\Students_registration\obj\Debug\Students_registration.pdb
+C:\Users\rodz\Documents\Visual Studio 2008\Projects\Students_registration\Students_registration\obj\Debug\Students_registration.FORMS.frmStudent.resources
+C:\Users\rodz\Documents\Visual Studio 2008\Projects\Students_registration\Students_registration\obj\Debug\Students_registration.FORMS.ListOfStudents.resources
+C:\Users\rodz\Documents\Visual Studio 2008\Projects\Students_registration\Students_registration\obj\Debug\Students_registration.FORMS.Main.resources
+\\192.168.2.179\Students_registration\Students_registration\obj\Debug\Students_registration.exe
+\\192.168.2.179\Students_registration\Students_registration\obj\Debug\ResolveAssemblyReference.cache
+\\192.168.2.179\Students_registration\Students_registration\obj\Debug\Students_registration.FORMS.frmStudent.resources
+\\192.168.2.179\Students_registration\Students_registration\obj\Debug\Students_registration.FORMS.ListOfStudents.resources
+\\192.168.2.179\Students_registration\Students_registration\obj\Debug\Students_registration.FORMS.Main.resources
+\\192.168.2.179\Students_registration\Students_registration\obj\Debug\Students_registration.Properties.Resources.resources
+\\192.168.2.179\Students_registration\Students_registration\obj\Debug\Students_registration.csproj.GenerateResource.Cache
+\\192.168.2.179\students_registration\Students_registration\obj\Debug\Students_registration.pdb
+\\192.168.2.179\Students_registration\Students_registration\bin\Debug\Students_registration.exe
+\\192.168.2.179\Students_registration\Students_registration\bin\Debug\Students_registration.pdb
+D:\Students_registration\Students_registration\obj\Debug\Students_registration.exe
+D:\Students_registration\Students_registration\obj\Debug\Students_registration.pdb
+D:\Students_registration\Students_registration\bin\Debug\Students_registration.exe
+D:\Students_registration\Students_registration\bin\Debug\Students_registration.pdb
+D:\Students_registration\Students_registration\obj\Debug\Students_registration.csprojResolveAssemblyReference.cache
+D:\Students_registration\Students_registration\obj\Debug\Students_registration.FORMS.frmStudent.resources
+D:\Students_registration\Students_registration\obj\Debug\Students_registration.FORMS.ListOfStudents.resources
+D:\Students_registration\Students_registration\obj\Debug\Students_registration.FORMS.Main.resources
+D:\Students_registration\Students_registration\obj\Debug\Students_registration.Properties.Resources.resources
+D:\Students_registration\Students_registration\obj\Debug\Students_registration.csproj.GenerateResource.Cache
+C:\Users\dj_buGGGer\Documents\Visual Studio 2010\Projects\Students_registration\Students_registration\obj\Debug\Students_registration.exe
+C:\Users\dj_buGGGer\Documents\Visual Studio 2010\Projects\Students_registration\Students_registration\obj\Debug\Students_registration.pdb
+C:\Users\dj_buGGGer\Documents\Visual Studio 2010\Projects\Students_registration\Students_registration\obj\Debug\Students_registration.csprojResolveAssemblyReference.cache
+C:\Users\dj_buGGGer\Documents\Visual Studio 2010\Projects\Students_registration\Students_registration\obj\Debug\Students_registration.FORMS.frmStudent.resources
+C:\Users\dj_buGGGer\Documents\Visual Studio 2010\Projects\Students_registration\Students_registration\obj\Debug\Students_registration.FORMS.ListOfStudents.resources
+C:\Users\dj_buGGGer\Documents\Visual Studio 2010\Projects\Students_registration\Students_registration\obj\Debug\Students_registration.FORMS.Main.resources
+C:\Users\dj_buGGGer\Documents\Visual Studio 2010\Projects\Students_registration\Students_registration\obj\Debug\Students_registration.Properties.Resources.resources
+C:\Users\dj_buGGGer\Documents\Visual Studio 2010\Projects\Students_registration\Students_registration\obj\Debug\Students_registration.csproj.GenerateResource.Cache
+C:\Users\dj_buGGGer\Documents\Visual Studio 2010\Projects\Students_registration\Students_registration\bin\Debug\Students_registration.exe
+C:\Users\dj_buGGGer\Documents\Visual Studio 2010\Projects\Students_registration\Students_registration\bin\Debug\Students_registration.pdb
+F:\Sem.4\C# Projects\Trials\Students_registration\Students_registration\bin\Debug\Students_registration.exe
+F:\Sem.4\C# Projects\Trials\Students_registration\Students_registration\bin\Debug\Students_registration.pdb
+F:\Sem.4\C# Projects\Trials\Students_registration\Students_registration\obj\Debug\Students_registration.csprojResolveAssemblyReference.cache
+F:\Sem.4\C# Projects\Trials\Students_registration\Students_registration\obj\Debug\Students_registration.FORMS.frmStudent.resources
+F:\Sem.4\C# Projects\Trials\Students_registration\Students_registration\obj\Debug\Students_registration.FORMS.ListOfStudents.resources
+F:\Sem.4\C# Projects\Trials\Students_registration\Students_registration\obj\Debug\Students_registration.FORMS.Main.resources
+F:\Sem.4\C# Projects\Trials\Students_registration\Students_registration\obj\Debug\Students_registration.Properties.Resources.resources
+F:\Sem.4\C# Projects\Trials\Students_registration\Students_registration\obj\Debug\Students_registration.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\Trials\Students_registration\Students_registration\obj\Debug\Students_registration.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\Trials\Students_registration\Students_registration\obj\Debug\Students_registration.exe
+F:\Sem.4\C# Projects\Trials\Students_registration\Students_registration\obj\Debug\Students_registration.pdb
+C:\Users\Owner\Desktop\SABGET\برمجه مرئيه\معلومات الطالب البسيطة\Student_Info\Students_registration\obj\Debug\Students_registration.exe
+C:\Users\Owner\Desktop\SABGET\برمجه مرئيه\معلومات الطالب البسيطة\Student_Info\Students_registration\obj\Debug\Students_registration.pdb
+C:\Users\Owner\Desktop\SABGET\برمجه مرئيه\معلومات الطالب البسيطة\Student_Info\Students_registration\bin\Debug\Students_registration.exe
+C:\Users\Owner\Desktop\SABGET\برمجه مرئيه\معلومات الطالب البسيطة\Student_Info\Students_registration\bin\Debug\Students_registration.pdb
+C:\Users\Owner\Desktop\SABGET\برمجه مرئيه\معلومات الطالب البسيطة\Student_Info\Students_registration\obj\Debug\Students_registration.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\SABGET\برمجه مرئيه\معلومات الطالب البسيطة\Student_Info\Students_registration\obj\Debug\Students_registration.FORMS.frmStudent.resources
+C:\Users\Owner\Desktop\SABGET\برمجه مرئيه\معلومات الطالب البسيطة\Student_Info\Students_registration\obj\Debug\Students_registration.FORMS.ListOfStudents.resources
+C:\Users\Owner\Desktop\SABGET\برمجه مرئيه\معلومات الطالب البسيطة\Student_Info\Students_registration\obj\Debug\Students_registration.FORMS.Main.resources
+C:\Users\Owner\Desktop\SABGET\برمجه مرئيه\معلومات الطالب البسيطة\Student_Info\Students_registration\obj\Debug\Students_registration.Properties.Resources.resources
+C:\Users\Owner\Desktop\SABGET\برمجه مرئيه\معلومات الطالب البسيطة\Student_Info\Students_registration\obj\Debug\Students_registration.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\VisualStudio2015\Projects1\Student\Student\Students_registration\obj\Debug\Students_registration.exe
+C:\Users\Owner\Documents\VisualStudio2015\Projects1\Student\Student\Students_registration\obj\Debug\Students_registration.pdb
+C:\Users\العادل\Desktop\Student\Students_registration\bin\Debug\Students_registration.exe.config
+C:\Users\العادل\Desktop\Student\Students_registration\obj\Debug\Students_registration.exe
+C:\Users\العادل\Desktop\Student\Students_registration\obj\Debug\Students_registration.pdb
+C:\Users\العادل\Desktop\Student\Students_registration\bin\Debug\Students_registration.exe
+C:\Users\العادل\Desktop\Student\Students_registration\bin\Debug\Students_registration.pdb
+C:\Users\العادل\Desktop\Student\Students_registration\obj\Debug\Students_registration.csprojResolveAssemblyReference.cache
+C:\Users\العادل\Desktop\Student\Students_registration\obj\Debug\Students_registration.FORMS.frmStudent.resources
+C:\Users\العادل\Desktop\Student\Students_registration\obj\Debug\Students_registration.FORMS.ListOfStudents.resources
+C:\Users\العادل\Desktop\Student\Students_registration\obj\Debug\Students_registration.FORMS.Main.resources
+C:\Users\العادل\Desktop\Student\Students_registration\obj\Debug\Students_registration.Properties.Resources.resources
+C:\Users\العادل\Desktop\Student\Students_registration\obj\Debug\Students_registration.csproj.GenerateResource.Cache

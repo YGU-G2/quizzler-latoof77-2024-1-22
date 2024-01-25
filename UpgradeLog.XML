@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Students_registration">
+</Property><Property Name="Solution File" Value="D:\Students_registration\Students_registration.sln">
+</Property><Property Name="User Options File" Value="D:\Students_registration\Students_registration.suo">
+</Property><Property Name="Date" Value="Friday, July 11, 2014">
+</Property><Property Name="Time" Value="8:43 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Students_registration.sln" Description="File successfully backed up as D:\Students_registration\Backup\Students_registration.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Students_registration.suo" Description="File successfully backed up as D:\Students_registration\Backup\Students_registration.suo">
+</Event><Event ErrorLevel="0" Project="Students_registration" Source="Students_registration\Students_registration.csproj" Description="Project file successfully backed up as D:\Students_registration\Backup\Students_registration\Students_registration.csproj">
+</Event><Event ErrorLevel="0" Project="Students_registration" Source="Students_registration\CLASSES\Db.cs" Description="File successfully backed up as D:\Students_registration\Backup\Students_registration\CLASSES\Db.cs">
+</Event><Event ErrorLevel="0" Project="Students_registration" Source="Students_registration\CLASSES\GLOBAL_VARS.cs" Description="File successfully backed up as D:\Students_registration\Backup\Students_registration\CLASSES\GLOBAL_VARS.cs">
+</Event><Event ErrorLevel="0" Project="Students_registration" Source="Students_registration\CLASSES\Student_reg.cs" Description="File successfully backed up as D:\Students_registration\Backup\Students_registration\CLASSES\Student_reg.cs">
+</Event><Event ErrorLevel="0" Project="Students_registration" Source="Students_registration\FORMS\frmStudent.cs" Description="File successfully backed up as D:\Students_registration\Backup\Students_registration\FORMS\frmStudent.cs">
+</Event><Event ErrorLevel="0" Project="Students_registration" Source="Students_registration\FORMS\frmStudent.Designer.cs" Description="File successfully backed up as D:\Students_registration\Backup\Students_registration\FORMS\frmStudent.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Students_registration" Source="Students_registration\FORMS\ListOfStudents.cs" Description="File successfully backed up as D:\Students_registration\Backup\Students_registration\FORMS\ListOfStudents.cs">
+</Event><Event ErrorLevel="0" Project="Students_registration" Source="Students_registration\FORMS\ListOfStudents.Designer.cs" Description="File successfully backed up as D:\Students_registration\Backup\Students_registration\FORMS\ListOfStudents.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Students_registration" Source="Students_registration\FORMS\Main.cs" Description="File successfully backed up as D:\Students_registration\Backup\Students_registration\FORMS\Main.cs">
+</Event><Event ErrorLevel="0" Project="Students_registration" Source="Students_registration\FORMS\Main.Designer.cs" Description="File successfully backed up as D:\Students_registration\Backup\Students_registration\FORMS\Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Students_registration" Source="Students_registration\Program.cs" Description="File successfully backed up as D:\Students_registration\Backup\Students_registration\Program.cs">
+</Event><Event ErrorLevel="0" Project="Students_registration" Source="Students_registration\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Students_registration\Backup\Students_registration\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Students_registration" Source="Students_registration\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Students_registration\Backup\Students_registration\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Students_registration" Source="Students_registration\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Students_registration\Backup\Students_registration\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Students_registration" Source="Students_registration\Properties\Settings.settings" Description="File successfully backed up as D:\Students_registration\Backup\Students_registration\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Students_registration" Source="Students_registration\FORMS\frmStudent.resx" Description="File successfully backed up as D:\Students_registration\Backup\Students_registration\FORMS\frmStudent.resx">
+</Event><Event ErrorLevel="0" Project="Students_registration" Source="Students_registration\FORMS\ListOfStudents.resx" Description="File successfully backed up as D:\Students_registration\Backup\Students_registration\FORMS\ListOfStudents.resx">
+</Event><Event ErrorLevel="0" Project="Students_registration" Source="Students_registration\FORMS\Main.resx" Description="File successfully backed up as D:\Students_registration\Backup\Students_registration\FORMS\Main.resx">
+</Event><Event ErrorLevel="0" Project="Students_registration" Source="Students_registration\Properties\Resources.resx" Description="File successfully backed up as D:\Students_registration\Backup\Students_registration\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Students_registration" Source="Students_registration\Students_registration.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Students_registration" Source="Students_registration\Students_registration.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Students_registration.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Students_registration.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Students_registration" Source="Students_registration\Students_registration.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
